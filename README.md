@@ -1,4 +1,4 @@
-# hotels app
+# mern app
 
 ## Project Details
 
